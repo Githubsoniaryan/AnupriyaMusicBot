@@ -68,7 +68,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(text="🍁ᴏᴡɴᴇʀ🍁", url="https://t.me/smartness_to_hai"),
-            InlineKeyboardButton(text="🍁ᴄᴏᴡɴᴇʀ🍁", url="https://t.me/badness_to_hai"),
+            InlineKeyboardButton(text="🍁ᴄᴏᴡɴᴇʀ🍁", url="https://t.me/ricky_bahl_KK"),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
@@ -86,7 +86,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(text="🍁ᴏᴡɴᴇʀ🍁", url="https://t.me/smartness_to_hai"),
-            InlineKeyboardButton(text="🍁ᴄᴏᴡɴᴇʀ🍁", url="https://t.me/badness_to_hai"),
+            InlineKeyboardButton(text="🍁ᴄᴏᴡɴᴇʀ🍁", url="https://t.me/ricky_bahl_KK"),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
