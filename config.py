@@ -29,9 +29,9 @@ OWNER_ID = int(getenv("OWNER_ID", "7710642242"))
 
 LOG = int(getenv("LOG", True))
 
-API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz')
+API_URL = getenv("API_URL", 'https://teaminflex.xyz')
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY", 'NxGBNexGenBots68c1b9')
+API_KEY = getenv("API_KEY", 'INFLEX93454428D')
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -41,7 +41,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ARYANSONI9026/PsychoMusicBot",
+    "https://github.com/Githubsoniaryan2/SwastiMusicBot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
